@@ -21,10 +21,15 @@ This project helped me understand ROS 2 topic communication using C++.
 
 ## Project Structure
 speed_monitor_cpp/
-├── src/
+
+├── src/ 
+
 │   ├── speed_publisher.cpp
+
 │   ├── speed_subscriber.cpp
+
 ├── CMakeLists.txt
+
 ├── package.xml
 
 ---
